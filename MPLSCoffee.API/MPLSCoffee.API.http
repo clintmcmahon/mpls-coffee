@@ -1,0 +1,6 @@
+@MPLSCoffee.API_HostAddress = http://localhost:5019
+
+GET {{MPLSCoffee.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
