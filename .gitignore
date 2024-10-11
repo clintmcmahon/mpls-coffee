@@ -41,5 +41,5 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-.MPLSCoffee.Harvester/appsettings.json
-.MPLSCoffee.API/appsettings.Development.json
+/MPLSCoffee.Harvester/appsettings.json
+/MPLSCoffee.API/appsettings.Development.json
